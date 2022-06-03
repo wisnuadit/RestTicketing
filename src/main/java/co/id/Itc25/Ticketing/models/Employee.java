@@ -54,4 +54,7 @@ public class Employee {
     public Employee(String employeeId) {
         this.employeeId = employeeId;
     }
+
+    public Employee() {
+    }
 }
